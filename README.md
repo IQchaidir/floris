@@ -18,7 +18,7 @@ Table of contents:
 - Website/Frontend: <url>
   - Backend: <url>
 - Repositories:
-  - General: <https://github.com/IQchaidir/floris?tab=readme-ov-file#home-page>
+  - General: <https://github.com/IQchaidir/floris>
   - Backend: <https://github.com/IQchaidir/floris-backend>
   - Frontend: <https://github.com/IQchaidir/floris-frontend>
 
