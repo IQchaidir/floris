@@ -4,11 +4,11 @@
 
 Table of contents:
 
--[Floris](#floris)
-  -[Links](#links)
-  -[Features](#features)
-  -[UI Design](#ui-designs)
-    -[Home Page](#home-page)
+- [Floris](#floris)
+  - [Links](#links)
+  - [Features](#features)
+  - [UI Design](#ui-designs)
+    - [Home Page](#home-page)
 
 ## Links
 
@@ -25,17 +25,16 @@ Inspirations:
 
 ## Features
 
--Home Page
-
-- Hero Section
-- Products Catalogue
-  - Product Page
-- Image
-- SKU (stock keeping until)
-- Name
-- Price
-- Description
-- Add to cart form: quantity input & add to cart button
+- Home Page
+  - Hero Section
+  - Products Catalogue
+- Product Page
+  - Image
+  - SKU (stock keeping until)
+  - Name
+  - Price
+  - Description
+  - Add to cart form: quantity input & add to cart button
   - Shopping cart page
 - Product items to buy
   - Image, name, price, quantity, total (price x quantity)
