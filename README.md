@@ -19,12 +19,12 @@ Table of contents:
   - Backend: <url>
 - Repositories:
   - General: <https://github.com/IQchaidir/floris?tab=readme-ov-file#home-page>
-  - Backend: <url>
-  - Frontend: <url>
+  - Backend: <https://github.com/IQchaidir/floris-backend>
+  - Frontend: <https://github.com/IQchaidir/floris-frontend>
 
 Inspirations:
 
-- [House Plant Shop]<https://houseplantshop.com/>
+- <https://houseplantshop.com/>
 
 ## Features
 
