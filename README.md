@@ -9,19 +9,22 @@ Table of contents:
   - [Features](#features)
   - [UI Design](#ui-designs)
     - [Home Page](#home-page)
+    - [Detail Product](#detail-product)
+    - [Cart Page](#cart-page)
+    - [Login Page](#login-page)
 
 ## Links
 
 - Website/Frontend: <url>
   - Backend: <url>
 - Repositories:
-  - General: <url>
+  - General: <https://github.com/IQchaidir/floris?tab=readme-ov-file#home-page>
   - Backend: <url>
   - Frontend: <url>
 
 Inspirations:
 
-- url
+- [House Plant Shop]<https://houseplantshop.com/>
 
 ## Features
 
@@ -44,11 +47,23 @@ Inspirations:
 
 ## UI Designs
 
-- Figma: <url>
+- Figma: <https://www.figma.com/design/yfAIpCewfhMraEFNoXzw6S/Floris?node-id=0-1&node-type=canvas&t=5lyAExTApXagCMPC-0>
 
 ### Home Page
 
-<img />
+<img alt="Home Page" src="./designs/homepage.png" width="400" />
+
+### Detail Product
+
+<img alt="Detail Product" src="./designs/detailproduct.png" width="400" />
+
+### Cart Page
+
+<img alt="Home Page" src="./designs/cartpage.png" width="400" />
+
+### Login Page
+
+<img alt="Home Page" src="./designs/loginpage.png" width="400" />
 
 ## Entity Relationship Diagram (ERD)
 
