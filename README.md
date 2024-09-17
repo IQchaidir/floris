@@ -4,7 +4,11 @@
 
 Table of contents:
 
--[Floris](#floris) -[Links](#links) -[Features](#features) -[UI Design](#ui-designs) -[Home Page](#home-page)
+-[Floris](#floris)
+  -[Links](#links)
+  -[Features](#features)
+  -[UI Design](#ui-designs)
+    -[Home Page](#home-page)
 
 ## Links
 
