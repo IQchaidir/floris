@@ -84,6 +84,18 @@ Inspirations:
 | `/products/:id`  | `DELETE` | Delete product by id      |
 | `/products/:id`  | `PATCH`  | Update product by id      |
 
+Auth:
+
+| Endpoint           | HTTP     | Permission    | Description                          |
+| ------------------ | -------- | ------------- | -------------------------------------|
+| `/auth/register`   | `POST`   | Public        | Register User                        |
+| `/auth/login`      | `POST`   | Public        | Login User                           |
+| `/auth/me`         | `GET`    | Authenticated | Get User Profile                     |
+| `/cart`            | `GET`    | Authenticated | Get the current user's cart items    |
+| `/cart/items`      | `POST`   | Authenticated | Add new item(s) to the cart          |
+| `/cart/items/:id`  | `DELETE` | Authenticated | Remove an item from the cart by ID   |
+| `/cart/items/:id`  | `PATCH`  | Authenticated | Update the quantity of an item by ID |
+
 ### Product
 
 ```json
