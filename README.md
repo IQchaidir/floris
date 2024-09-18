@@ -67,7 +67,7 @@ Inspirations:
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](./diagrams)
+![ERD](./diagrams/Floris.svg)
 
 ## REST API Endpoints
 
