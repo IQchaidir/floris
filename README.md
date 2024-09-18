@@ -74,6 +74,8 @@ Inspirations:
 - Production: `url`
 - Local: `http://localhost:3000`
 
+### API Product
+
 | Endpoint         | HTTP     | Description               |
 | ---------------- | -------- | ------------------------- |
 | `/products`      | `GET`    | Get all products          |
@@ -84,7 +86,7 @@ Inspirations:
 | `/products/:id`  | `DELETE` | Delete product by id      |
 | `/products/:id`  | `PATCH`  | Update product by id      |
 
-Auth:
+### API Auth
 
 | Endpoint           | HTTP     | Permission    | Description                          |
 | ------------------ | -------- | ------------- | -------------------------------------|
@@ -95,13 +97,3 @@ Auth:
 | `/cart/items`      | `POST`   | Authenticated | Add new item(s) to the cart          |
 | `/cart/items/:id`  | `DELETE` | Authenticated | Remove an item from the cart by ID   |
 | `/cart/items/:id`  | `PATCH`  | Authenticated | Update the quantity of an item by ID |
-
-### Product
-
-```json
-{
-    "id": "1",
-    "name": "product name",
-    "price": 30000
-}
-```
