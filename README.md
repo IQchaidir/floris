@@ -1,6 +1,6 @@
 # FLORIS
 
-[Floris](url) is an online store that sells ornamental plants
+[Floris](https://floris.iqbalchaidir.com/) is an online store that sells ornamental plants
 
 Table of contents:
 
@@ -15,8 +15,8 @@ Table of contents:
 
 ## Links
 
-- Website/Frontend: <url>
-  - Backend: <url>
+- Website/Frontend: <https://floris.iqbalchaidir.com/>
+  - Backend: <https://floris-backend.iqbalchaidir.com/>
 - Repositories:
   - General: <https://github.com/IQchaidir/floris>
   - Backend: <https://github.com/IQchaidir/floris-backend>
@@ -71,7 +71,7 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `url`
+- Production: `https://floris-backend.iqbalchaidir.com/`
 - Local: `http://localhost:3000`
 
 ### API Product
